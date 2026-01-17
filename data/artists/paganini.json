@@ -1,0 +1,138 @@
+{
+  "slug": "paganini",
+  "name": "PAGANINI",
+  "fullName": "Niccolò Paganini",
+  "subtitle": "The Devil's Violinist",
+  "birthYear": "1782",
+  "deathYear": "1840",
+  "nationality": "Italian",
+  "locations": "Genoa, Italy & European Concert Halls",
+  "tagline": "The Virtuoso Who Transcended Human Limits",
+  "disciplines": "Violinist • Composer • Musical Revolutionary",
+  "primaryColor": "red",
+  "hero": {
+    "title": "PAGANINI",
+    "subtitle": "The Devil's Violinist",
+    "disciplines": "Violinist • Composer • Musical Revolutionary",
+    "yearsAndLocation": "1782 – 1840 · Genoa & Europe · The Virtuoso Who Transcended Human Limits"
+  },
+  "biography": {
+    "sectionLabel": "The Legend",
+    "title": "The Man Who Made a Pact with Music",
+    "paragraphs": [
+      "Born in Genoa in 1782, Niccolò Paganini revolutionized violin technique and performance. His seemingly supernatural abilities led contemporaries to believe he had made a pact with the devil. His technical innovations and showmanship transformed the concert experience forever.",
+      "Paganini's mastery was so complete that audiences couldn't believe what they were witnessing. He performed feats previously considered impossible: lightning-fast passages, harmonics, left-hand pizzicato, and playing entire pieces on a single string. His performances were spectacles of musical athleticism and artistic expression.",
+      "More than a virtuoso, Paganini was a composer who expanded the technical possibilities of the violin. His 24 Caprices remain the ultimate test of violin mastery, while his concertos showcase both technical brilliance and lyrical beauty. He influenced generations of musicians, from Liszt to modern rock guitarists."
+    ],
+    "skills": [
+      {
+        "title": "Violin Virtuosity",
+        "description": "Superhuman technique that redefined what was possible on the violin, creating sounds and effects never before achieved."
+      },
+      {
+        "title": "Composition",
+        "description": "Created groundbreaking works that pushed instrumental boundaries while maintaining musical depth and emotional power."
+      },
+      {
+        "title": "Performance Art",
+        "description": "Transformed concerts into theatrical experiences, establishing the modern concept of the virtuoso performer as celebrity."
+      }
+    ]
+  },
+  "masterworks": [
+    {
+      "title": "24 Caprices for Solo Violin, Op. 1",
+      "year": "1817",
+      "description": "The ultimate challenge for violinists—24 études exploring every aspect of violin technique with musical brilliance.",
+      "category": "Composition"
+    },
+    {
+      "title": "Violin Concerto No. 1 in D Major",
+      "year": "1817",
+      "description": "A dazzling display of virtuosity combined with memorable melodies, showcasing Paganini's dual mastery of technique and lyricism.",
+      "category": "Composition"
+    },
+    {
+      "title": "Violin Concerto No. 2 in B Minor 'La Campanella'",
+      "year": "1826",
+      "description": "Famous for its bell-like finale, this concerto inspired Liszt and countless others with its technical wizardry.",
+      "category": "Composition"
+    },
+    {
+      "title": "Moses Fantasy",
+      "year": "1818",
+      "description": "A tour de force variation set on Rossini's opera, demonstrating Paganini's ability to transform simple themes into virtuosic marvels.",
+      "category": "Composition"
+    },
+    {
+      "title": "Le Streghe (The Witches)",
+      "year": "1813",
+      "description": "Variations on a theme from Süssmayr's opera, filled with supernatural effects and diabolical technical challenges.",
+      "category": "Composition"
+    },
+    {
+      "title": "God Save the King Variations",
+      "year": "1829",
+      "description": "Performed on a single string to demonstrate his legendary control and ability to coax impossible sounds from his instrument.",
+      "category": "Performance"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1782",
+      "event": "Born in Genoa, Italy",
+      "significance": "Birth of a Legend"
+    },
+    {
+      "year": "1793",
+      "event": "First public performance",
+      "significance": "Child Prodigy Emerges"
+    },
+    {
+      "year": "1805",
+      "event": "Appointed court violinist in Lucca",
+      "significance": "Professional Recognition"
+    },
+    {
+      "year": "1813",
+      "event": "Begins touring Italy",
+      "significance": "Rise to Fame"
+    },
+    {
+      "year": "1828",
+      "event": "Vienna debut causes sensation",
+      "significance": "European Conquest"
+    },
+    {
+      "year": "1831",
+      "event": "Triumphs in Paris and London",
+      "significance": "International Superstar"
+    },
+    {
+      "year": "1840",
+      "event": "Dies in Nice, France",
+      "significance": "End of an Era"
+    }
+  ],
+  "legacy": {
+    "title": "Immortal Influence",
+    "stats": [
+      {
+        "value": "200+",
+        "label": "Years of Inspiration",
+        "sublabel": "Still challenging musicians"
+      },
+      {
+        "value": "24",
+        "label": "Legendary Caprices",
+        "sublabel": "Ultimate violin test"
+      },
+      {
+        "value": "★",
+        "label": "First Superstar",
+        "sublabel": "Modern virtuoso template"
+      }
+    ],
+    "description": "Paganini didn't just play the violin—he transformed it into an instrument of the impossible. His technical innovations became the foundation of modern violin technique, while his showmanship established the archetype of the virtuoso performer. From classical musicians to rock guitarists, his influence permeates all performance art. His legend endures not merely for technical prowess, but for proving that human skill and dedication can achieve what seems supernatural."
+  }
+}

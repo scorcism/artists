@@ -1,0 +1,138 @@
+{
+  "slug": "michelangelo",
+  "name": "MICHELANGELO",
+  "fullName": "Michelangelo Buonarroti",
+  "subtitle": "The Master of the Renaissance",
+  "birthYear": "1475",
+  "deathYear": "1564",
+  "nationality": "Italian",
+  "locations": "Florence & Rome",
+  "tagline": "The Genius Who Shaped Western Art",
+  "disciplines": "Sculptor • Painter • Architect • Visionary",
+  "primaryColor": "amber",
+  "hero": {
+    "title": "MICHELANGELO",
+    "subtitle": "The Master of the Renaissance",
+    "disciplines": "Sculptor • Painter • Architect • Visionary",
+    "yearsAndLocation": "1475 – 1564 · Florence & Rome · The Genius Who Shaped Western Art"
+  },
+  "biography": {
+    "sectionLabel": "The Master",
+    "title": "The Man Who Freed Figures from Stone",
+    "paragraphs": [
+      "Born in Caprese in 1475, Michelangelo Buonarroti emerged as the supreme artist of the High Renaissance. His unparalleled mastery of sculpture, painting, and architecture redefined human artistic possibility and shaped the cultural trajectory of Western civilization.",
+      "A perfectionist obsessed with unveiling the divine within marble, Michelangelo saw sculpture as liberation— the act of freeing the imprisoned figure from its stone tomb. This philosophy transcended his work; it became his life's spiritual quest.",
+      "From the iconic David to the transcendent Sistine Chapel, from the architectural majesty of St. Peter's to intimate marble Pietàs, Michelangelo's works stand as monuments to human potential at its absolute zenith."
+    ],
+    "skills": [
+      {
+        "title": "Sculpture",
+        "description": "Master of marble who breathed life into stone, creating works of unmatched elegance, humanity, and divine presence."
+      },
+      {
+        "title": "Painting",
+        "description": "Creator of the Sistine Chapel ceiling—perhaps humanity's greatest artistic achievement, a testament to vision and perseverance."
+      },
+      {
+        "title": "Architecture",
+        "description": "Designer of St. Peter's Basilica and architect of Renaissance splendor, blending form, proportion, and spiritual grandeur."
+      }
+    ]
+  },
+  "masterworks": [
+    {
+      "title": "David",
+      "year": "1504",
+      "description": "The most iconic sculpture of the Renaissance—17 feet of pure marble genius carved from a single block.",
+      "category": "Sculpture"
+    },
+    {
+      "title": "Sistine Chapel Ceiling",
+      "year": "1508-1512",
+      "description": "An epoch-defining masterpiece depicting the Creation of Man and biblical narratives spanning 5,000 square meters.",
+      "category": "Painting"
+    },
+    {
+      "title": "St. Peter's Basilica",
+      "year": "1546-1564",
+      "description": "As chief architect of Christendom's grandest basilica, Michelangelo created a monument for the ages.",
+      "category": "Architecture"
+    },
+    {
+      "title": "The Last Judgment",
+      "year": "1536-1541",
+      "description": "A monumental 600-figure fresco covering the Sistine Chapel's altar wall—mankind's final reckoning.",
+      "category": "Painting"
+    },
+    {
+      "title": "Pietà",
+      "year": "1498-1499",
+      "description": "A marble sculpture of divine tenderness—Mary cradling her son in eternal sorrow and grace.",
+      "category": "Sculpture"
+    },
+    {
+      "title": "Medici Chapel",
+      "year": "1520-1534",
+      "description": "An architectural and sculptural complex merging light, form, and symbolism into transcendent beauty.",
+      "category": "Architecture"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1475",
+      "event": "Born in Caprese, Italy",
+      "significance": "Beginning of Genius"
+    },
+    {
+      "year": "1488",
+      "event": "Apprenticed to Ghirlandaio",
+      "significance": "Artistic Education"
+    },
+    {
+      "year": "1498-1499",
+      "event": "Completes the Pietà",
+      "significance": "Early Masterpiece"
+    },
+    {
+      "year": "1504",
+      "event": "Unveils David in Florence",
+      "significance": "Icon Achieved"
+    },
+    {
+      "year": "1508-1512",
+      "event": "Paints Sistine Chapel Ceiling",
+      "significance": "Peak of Vision"
+    },
+    {
+      "year": "1546",
+      "event": "Becomes Chief Architect of St. Peter's",
+      "significance": "Ultimate Commission"
+    },
+    {
+      "year": "1564",
+      "event": "Dies in Rome at 88",
+      "significance": "Legacy Eternal"
+    }
+  ],
+  "legacy": {
+    "title": "Eternal Legacy",
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Years of Influence",
+        "sublabel": "Shaping art & civilization"
+      },
+      {
+        "value": "∞",
+        "label": "Timeless Creations",
+        "sublabel": "Forever inspiring"
+      },
+      {
+        "value": "⬆",
+        "label": "The Gold Standard",
+        "sublabel": "Benchmark of excellence"
+      }
+    ],
+    "description": "Michelangelo's philosophy—that art exists to elevate the human spirit—remains the North Star for artists, architects, and visionaries worldwide. His technical mastery, unwavering pursuit of perfection, and belief in the divine nature of creation set the standard for all that followed. Every brushstroke, every carved figure, every architectural line stands as testament to human potential at its zenith. Five centuries later, his influence only deepens."
+  }
+}

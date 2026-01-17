@@ -1,0 +1,138 @@
+{
+  "slug": "leonardo",
+  "name": "LEONARDO DA VINCI",
+  "fullName": "Leonardo di ser Piero da Vinci",
+  "subtitle": "The Universal Genius",
+  "birthYear": "1452",
+  "deathYear": "1519",
+  "nationality": "Italian",
+  "locations": "Florence, Milan, Rome & Amboise",
+  "tagline": "The Renaissance Man Who Imagined the Future",
+  "disciplines": "Painter • Inventor • Scientist • Engineer • Polymath",
+  "primaryColor": "blue",
+  "hero": {
+    "title": "LEONARDO DA VINCI",
+    "subtitle": "The Universal Genius",
+    "disciplines": "Painter • Inventor • Scientist • Engineer • Polymath",
+    "yearsAndLocation": "1452 – 1519 · Florence, Milan, Rome & France · The Renaissance Man Who Imagined the Future"
+  },
+  "biography": {
+    "sectionLabel": "The Polymath",
+    "title": "The Mind That Knew No Boundaries",
+    "paragraphs": [
+      "Born in Vinci in 1452, Leonardo da Vinci embodied the Renaissance ideal of universal knowledge. He pursued mastery in art, science, engineering, anatomy, architecture, and countless other fields with equal passion and revolutionary insight. His curiosity knew no bounds, his notebooks reveal a mind centuries ahead of its time.",
+      "Leonardo approached art with scientific rigor and science with artistic vision. He dissected corpses to understand anatomy, studied birds to design flying machines, and observed water to paint landscapes. His method of inquiry—observation, experimentation, documentation—was as revolutionary as his creations.",
+      "Though he completed relatively few paintings, works like the Mona Lisa and The Last Supper remain among humanity's most iconic images. His notebooks, filled with inventions from helicopters to tanks, from scuba gear to robots, demonstrate an intellect that transcended his era. Leonardo didn't just contribute to the Renaissance—he defined what it meant to be a complete human being."
+    ],
+    "skills": [
+      {
+        "title": "Painting",
+        "description": "Master of sfumato, perspective, and human emotion, creating works of unparalleled subtlety and psychological depth."
+      },
+      {
+        "title": "Scientific Investigation",
+        "description": "Pioneering anatomist, engineer, and natural philosopher who documented the world with unprecedented detail and insight."
+      },
+      {
+        "title": "Engineering & Invention",
+        "description": "Visionary who conceptualized flying machines, submarines, robots, and countless devices centuries before their realization."
+      }
+    ]
+  },
+  "masterworks": [
+    {
+      "title": "Mona Lisa",
+      "year": "1503-1519",
+      "description": "The world's most famous painting—a portrait of enigmatic beauty that has captivated humanity for five centuries.",
+      "category": "Painting"
+    },
+    {
+      "title": "The Last Supper",
+      "year": "1495-1498",
+      "description": "A revolutionary mural capturing Christ's final meal with dramatic composition and psychological intensity unmatched in art.",
+      "category": "Painting"
+    },
+    {
+      "title": "Vitruvian Man",
+      "year": "1490",
+      "description": "The iconic drawing merging art and science, depicting ideal human proportions based on ancient texts and meticulous observation.",
+      "category": "Drawing"
+    },
+    {
+      "title": "The Virgin of the Rocks",
+      "year": "1483-1486",
+      "description": "A masterpiece of atmospheric perspective and spiritual symbolism, showcasing Leonardo's innovative painting techniques.",
+      "category": "Painting"
+    },
+    {
+      "title": "Anatomical Studies",
+      "year": "1489-1513",
+      "description": "Groundbreaking drawings revealing the human body's inner workings with accuracy not matched for centuries.",
+      "category": "Science"
+    },
+    {
+      "title": "Flying Machine Designs",
+      "year": "1485-1490",
+      "description": "Visionary concepts for human flight, including ornithopters and aerial screws, predating aviation by 400 years.",
+      "category": "Engineering"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1452",
+      "event": "Born in Vinci, near Florence",
+      "significance": "Birth of Genius"
+    },
+    {
+      "year": "1466",
+      "event": "Apprenticed to Verrocchio",
+      "significance": "Artistic Foundation"
+    },
+    {
+      "year": "1482",
+      "event": "Moves to Milan as court artist",
+      "significance": "Mature Period Begins"
+    },
+    {
+      "year": "1495-1498",
+      "event": "Paints The Last Supper",
+      "significance": "Revolutionary Masterpiece"
+    },
+    {
+      "year": "1503",
+      "event": "Begins the Mona Lisa",
+      "significance": "Eternal Icon Created"
+    },
+    {
+      "year": "1516",
+      "event": "Accepts invitation from King Francis I",
+      "significance": "Final Chapter in France"
+    },
+    {
+      "year": "1519",
+      "event": "Dies at Château du Clos Lucé",
+      "significance": "End of an Epoch"
+    }
+  ],
+  "legacy": {
+    "title": "Timeless Vision",
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Years of Relevance",
+        "sublabel": "Still inspiring innovation"
+      },
+      {
+        "value": "13K+",
+        "label": "Notebook Pages",
+        "sublabel": "Windows into genius"
+      },
+      {
+        "value": "∞",
+        "label": "Fields Mastered",
+        "sublabel": "The ultimate polymath"
+      }
+    ],
+    "description": "Leonardo da Vinci represents the pinnacle of human intellectual achievement—a mind that refused to accept boundaries between disciplines. His fusion of art and science created a new way of understanding the world. From aviation engineers studying his flying machines to artists analyzing his techniques, from anatomists appreciating his drawings to inventors following his methods, Leonardo's influence permeates modern civilization. He proved that curiosity, observation, and imagination can unlock limitless human potential."
+  }
+}
